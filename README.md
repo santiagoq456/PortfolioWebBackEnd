@@ -1,7 +1,7 @@
 # Repositorio del portfolio web
 ## Backend
 
-1.Autor: Santiago Quispe
+Autor: Santiago Quispe
 
 Se utilizarán las tecnologías:
 Base de datos: MySQL
