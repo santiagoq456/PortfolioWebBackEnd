@@ -4,6 +4,6 @@
 Autor: Santiago Quispe
 
 Se utilizarán las tecnologías:
-Base de datos: MySQL
-Lenguaje: Java con Framework Spring Boot
-Web server: Apache Tomcat
+* Base de datos: MySQL
+* Lenguaje: Java con Framework Spring Boot
+* Web server: Apache Tomcat
